@@ -1,7 +1,8 @@
 repo_name: rayhanuddin2019/react-with-route
 report_id: 596d37ee7d4a852807d536f9595071a5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T14:41:03+00:00'
+timestamp: '2024-01-05T08:53:20+00:00'
 requested_by: rayhanuddin2019
 provider: github
 branch: gh-pages
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rayhanuddin2019/react-with-route
   detection_source: Repo Metadata
